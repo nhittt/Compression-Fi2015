@@ -1,0 +1,69 @@
+nohup: ignoring input
+['data/compression_data_0.json', 'data/compression_data_1.json', 'data/compression_data_2.json', 'data/compression_data_3.json']
+Done list files for training
+  ==> Training (50 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -0.69315        0.377
+             2          -0.55502        0.679
+             3          -0.50130        0.767
+             4          -0.46278        0.798
+             5          -0.43340        0.818
+             6          -0.40998        0.833
+             7          -0.39069        0.845
+             8          -0.37441        0.855
+             9          -0.36040        0.863
+            10          -0.34818        0.869
+            11          -0.33737        0.874
+            12          -0.32771        0.879
+            13          -0.31901        0.883
+            14          -0.31111        0.887
+            15          -0.30389        0.890
+            16          -0.29726        0.893
+            17          -0.29114        0.895
+            18          -0.28547        0.898
+            19          -0.28019        0.900
+            20          -0.27525        0.902
+            21          -0.27063        0.903
+            22          -0.26629        0.905
+            23          -0.26220        0.906
+            24          -0.25834        0.907
+            25          -0.25468        0.908
+            26          -0.25122        0.910
+            27          -0.24793        0.911
+            28          -0.24480        0.912
+            29          -0.24182        0.912
+            30          -0.23897        0.913
+            31          -0.23625        0.914
+            32          -0.23365        0.915
+            33          -0.23116        0.915
+            34          -0.22876        0.916
+            35          -0.22647        0.916
+            36          -0.22426        0.917
+            37          -0.22214        0.917
+            38          -0.22009        0.918
+            39          -0.21812        0.918
+            40          -0.21622        0.918
+            41          -0.21439        0.919
+            42          -0.21261        0.919
+            43          -0.21090        0.919
+            44          -0.20924        0.920
+            45          -0.20764        0.920
+            46          -0.20608        0.920
+            47          -0.20458        0.920
+            48          -0.20311        0.921
+            49          -0.20170        0.921
+         Final          -0.20032        0.921
+   8.343 lemma_m_label_e_star==u'killing|during' and label is 1
+   6.728 lemma_n_label_e==u'Narendra Modi|of' and label is 1
+   6.333 lemma_n_label_e==u'wake|over' and label is 1
+   6.288 lemma_n_label_e==u'ground|tmod' and label is 1
+   6.257 lemma_n_label_e==u'book|advmod' and label is 1
+   6.205 lemma_m_label_e_star==u'concern|to' and label is 1
+   6.183 lemma_m_label_e_star==u'only|tmod' and label is 1
+   6.113 lemma_n_label_e==u'cross|parataxis' and label is 1
+   6.086 lemma_m==u'Geographical information system' and label is 1
+   5.950 lemma_n_label_e==u'area|till' and label is 1
+Read model
+Done test

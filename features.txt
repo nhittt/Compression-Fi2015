@@ -1,0 +1,17 @@
+e:n->m
+`1. label(e)
+`2. All(e*->n), label(e*)
+`3. pos(n)
+`4. pos(m)
+`5. depth(m) //root->n=?
+`6. No.children(n)
+`7. No.children(m)
+`8. node_len(m)
+`9. NE_tag(n)
+`10. NE_tag(m)
+11. is_negated(m)
+`12. lemma(n)
+`13. lemma(m)
+`14. lemma(n)-label(e)
+`15. All(e*)->m'siblings, lemma(m)-label(e*)
+`16. char_len(m)
